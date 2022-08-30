@@ -15,12 +15,6 @@ h3 {
 }
 
 p {
-    /* margin-bottom: 0rem; */
-    margin-bottom: 0%;
-    padding-left: 10px;
-}
-
-span {
     margin-bottom: 0%;
     padding-left: 10px;
 }
@@ -34,7 +28,7 @@ hr {
 .contanier-left {
     height: 100%;
     width: 400px;
-    background-color: grey;
+    background-color: whitesmoke;
 }
 
 .container-right {
