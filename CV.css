@@ -9,11 +9,19 @@ h1 {
     padding-left: 10px;
 }
 
+h3 {
+    padding-left: 10px;
+    font-weight: bold;
+}
+
 p {
+    /* margin-bottom: 0rem; */
+    margin-bottom: 0%;
     padding-left: 10px;
 }
 
 span {
+    margin-bottom: 0%;
     padding-left: 10px;
 }
 
@@ -22,8 +30,15 @@ hr {
     border-width: 1px;
     background-color: black;
 }
+
 .contanier-left {
-    height: 700px;
-    width: 350px;
+    height: 100%;
+    width: 400px;
     background-color: grey;
+}
+
+.container-right {
+    padding-left: 10px;
+    height: 100%;
+    width: 100%;
 }
