@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    padding-top: 60px;
+    padding-left: 60px; 
+}
+
+h1 {
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+p {
+    padding-left: 10px;
+}
+
+span {
+    padding-left: 10px;
+}
+
+hr {
+    height: 2px;
+    border-width: 1px;
+    background-color: black;
+}
+.contanier-left {
+    height: 700px;
+    width: 350px;
+    background-color: grey;
+}
